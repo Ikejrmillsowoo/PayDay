@@ -44,24 +44,7 @@
       <recent name="rocks.zipcode" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.PayDayTest.test2deductTax">
-    <configuration name="PayDayTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="PayDay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rocks.zipcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="rocks.zipcode" />
-      <option name="MAIN_CLASS_NAME" value="rocks.zipcode.PayDayTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.PayDayTest.test2netPay">
     <configuration name="PayDayTest.test1deductTax" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PayDay" />
       <extension name="coverage">
@@ -80,7 +63,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PayDayTest.test1grossPay" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PayDayTest.test1netPay" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="PayDay" />
       <extension name="coverage">
         <pattern>
@@ -90,7 +73,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="rocks.zipcode" />
       <option name="MAIN_CLASS_NAME" value="rocks.zipcode.PayDayTest" />
-      <option name="METHOD_NAME" value="test1grossPay" />
+      <option name="METHOD_NAME" value="test1netPay" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -134,20 +117,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PayDayTest.test2netPay" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PayDay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rocks.zipcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="rocks.zipcode" />
+      <option name="MAIN_CLASS_NAME" value="rocks.zipcode.PayDayTest" />
+      <option name="METHOD_NAME" value="test2netPay" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="TestNG.PayDayTest.test1deductTax" />
-      <item itemvalue="TestNG.PayDayTest.test1grossPay" />
+      <item itemvalue="TestNG.PayDayTest.test1netPay" />
       <item itemvalue="TestNG.PayDayTest.test2deductTax" />
       <item itemvalue="TestNG.PayDayTest.test2grossPay" />
-      <item itemvalue="TestNG.PayDayTest" />
+      <item itemvalue="TestNG.PayDayTest.test2netPay" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PayDayTest.test2netPay" />
+        <item itemvalue="TestNG.PayDayTest.test1netPay" />
         <item itemvalue="TestNG.PayDayTest.test2deductTax" />
         <item itemvalue="TestNG.PayDayTest.test1deductTax" />
         <item itemvalue="TestNG.PayDayTest.test2grossPay" />
-        <item itemvalue="TestNG.PayDayTest.test1grossPay" />
-        <item itemvalue="TestNG.PayDayTest" />
       </list>
     </recent_temporary>
   </component>
